@@ -1,0 +1,4 @@
+- 👋 Olá, sou Adrian Figueiredo.
+- 👀 Estou interessado em apreder.
+- 🌱 Atualmente estou estudando Flutter.
+- 👨‍🎓Comecei estudar programação em 01/2023.
